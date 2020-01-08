@@ -1,0 +1,23 @@
+---
+title: "Data Science Bowl EDA"
+output:
+  html_document:
+    code_folding: hide
+    theme: readable
+    highlight: espresso
+    df_print: paged
+    number_sections: no
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Section 1 Test
+
+## Subheading 1 Test
+
+### Subsubheading 1 Test
+
+# Section 2 Test

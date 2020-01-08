@@ -1,0 +1,5 @@
+# Do not retain Data
+Data/*
+
+# Retain file locations
+!Data/.gitkeep
